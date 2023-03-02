@@ -1,0 +1,5 @@
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean.Infrastructure\obj\Debug\net6.0\WeatherForecastClean.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean.Infrastructure\obj\Debug\net6.0\WeatherForecastClean.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean.Infrastructure\obj\Debug\net6.0\WeatherForecastClean.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean.Infrastructure\obj\Debug\net6.0\WeatherForecastClean.Infrastructure.AssemblyInfo.cs
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean.Infrastructure\obj\Debug\net6.0\WeatherForecastClean.Infrastructure.csproj.CoreCompileInputs.cache

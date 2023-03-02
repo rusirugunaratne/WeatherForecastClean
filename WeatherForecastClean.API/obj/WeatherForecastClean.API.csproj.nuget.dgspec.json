@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.API\\WeatherForecastClean.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.API\\WeatherForecastClean.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.API\\WeatherForecastClean.API.csproj",
+        "projectName": "WeatherForecastClean.API",
+        "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.API\\WeatherForecastClean.API.csproj",
+        "packagesPath": "C:\\Users\\Rusiru.G\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rusiru.G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj": {
+                "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj"
+              },
+              "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\WeatherForecastClean.Infrastructure.csproj": {
+                "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\WeatherForecastClean.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj",
+        "projectName": "WeatherForecastClean.Application",
+        "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj",
+        "packagesPath": "C:\\Users\\Rusiru.G\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rusiru.G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\WeatherForecastClean.Core.csproj": {
+                "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\WeatherForecastClean.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\WeatherForecastClean.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\WeatherForecastClean.Infrastructure.csproj",
+        "projectName": "WeatherForecastClean.Infrastructure",
+        "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\WeatherForecastClean.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rusiru.G\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rusiru.G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj": {
+                "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean.Application\\WeatherForecastClean.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\WeatherForecastClean.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\WeatherForecastClean.Core.csproj",
+        "projectName": "WeatherForecastClean.Core",
+        "projectPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\WeatherForecastClean.Core.csproj",
+        "packagesPath": "C:\\Users\\Rusiru.G\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\ASP_NET\\clean-architecture\\WeatherForecastClean\\WeatherForecastClean\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rusiru.G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

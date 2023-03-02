@@ -1,0 +1,12 @@
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\bin\Debug\net6.0\WeatherForecastClean.Core.deps.json
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\bin\Debug\net6.0\WeatherForecastClean.Core.dll
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\bin\Debug\net6.0\WeatherForecastClean.Core.pdb
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.csproj.AssemblyReference.cache
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.AssemblyInfoInputs.cache
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.AssemblyInfo.cs
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.csproj.CoreCompileInputs.cache
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.dll
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\refint\WeatherForecastClean.Core.dll
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\WeatherForecastClean.Core.pdb
+D:\Learning\ASP_NET\clean-architecture\WeatherForecastClean\WeatherForecastClean\obj\Debug\net6.0\ref\WeatherForecastClean.Core.dll
